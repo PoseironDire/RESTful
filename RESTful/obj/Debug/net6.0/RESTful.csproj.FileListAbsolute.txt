@@ -1,0 +1,17 @@
+C:\Users\edvin.tsygankov\Documents\GitHub\RESTful\RESTful\bin\Debug\net6.0\RESTful.exe
+C:\Users\edvin.tsygankov\Documents\GitHub\RESTful\RESTful\bin\Debug\net6.0\RESTful.deps.json
+C:\Users\edvin.tsygankov\Documents\GitHub\RESTful\RESTful\bin\Debug\net6.0\RESTful.runtimeconfig.json
+C:\Users\edvin.tsygankov\Documents\GitHub\RESTful\RESTful\bin\Debug\net6.0\RESTful.dll
+C:\Users\edvin.tsygankov\Documents\GitHub\RESTful\RESTful\bin\Debug\net6.0\RESTful.pdb
+C:\Users\edvin.tsygankov\Documents\GitHub\RESTful\RESTful\bin\Debug\net6.0\RestSharp.dll
+C:\Users\edvin.tsygankov\Documents\GitHub\RESTful\RESTful\obj\Debug\net6.0\RESTful.csproj.AssemblyReference.cache
+C:\Users\edvin.tsygankov\Documents\GitHub\RESTful\RESTful\obj\Debug\net6.0\RESTful.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edvin.tsygankov\Documents\GitHub\RESTful\RESTful\obj\Debug\net6.0\RESTful.AssemblyInfoInputs.cache
+C:\Users\edvin.tsygankov\Documents\GitHub\RESTful\RESTful\obj\Debug\net6.0\RESTful.AssemblyInfo.cs
+C:\Users\edvin.tsygankov\Documents\GitHub\RESTful\RESTful\obj\Debug\net6.0\RESTful.csproj.CoreCompileInputs.cache
+C:\Users\edvin.tsygankov\Documents\GitHub\RESTful\RESTful\obj\Debug\net6.0\RESTful.csproj.CopyComplete
+C:\Users\edvin.tsygankov\Documents\GitHub\RESTful\RESTful\obj\Debug\net6.0\RESTful.dll
+C:\Users\edvin.tsygankov\Documents\GitHub\RESTful\RESTful\obj\Debug\net6.0\refint\RESTful.dll
+C:\Users\edvin.tsygankov\Documents\GitHub\RESTful\RESTful\obj\Debug\net6.0\RESTful.pdb
+C:\Users\edvin.tsygankov\Documents\GitHub\RESTful\RESTful\obj\Debug\net6.0\RESTful.genruntimeconfig.cache
+C:\Users\edvin.tsygankov\Documents\GitHub\RESTful\RESTful\obj\Debug\net6.0\ref\RESTful.dll
